@@ -1,4 +1,4 @@
-altgraph==0.17
+altgraph==0.18
 asgiref==3.2.3
 astroid==1.6.6
 backcall==0.1.0
