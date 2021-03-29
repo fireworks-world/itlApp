@@ -46,7 +46,7 @@ prompt-toolkit==3.0.3
 psycopg2==2.7.4
 py==1.8.1
 pyasn1==0.4.8
-Pygments==2.5.2
+Pygments==2.7.4
 PyInstaller==3.4
 pylint==1.8.4
 PyQt5==5.14.1
