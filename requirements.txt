@@ -57,7 +57,7 @@ pytz==2019.3
 pywin32-ctypes==0.2.0
 PyYAML==5.3
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 simplejson==3.9.0
 six==1.14.0
 sqlparse==0.3.0
